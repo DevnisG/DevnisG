@@ -1,5 +1,5 @@
 <!-- BANNER -->
-<img src="assets/banner.gif" alt="Banner" width="1000" height="250">
+<img src="assets/banner.gif" alt="Banner" width="1000" height="200">
 
 <!-- TITLE -->
 <h2 align="center"> <img src="assets/icon.gif" width="100"> Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist. <img src="assets/icon.gif" width="100"></h2>
