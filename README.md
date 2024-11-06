@@ -1,14 +1,20 @@
-![Banner](https://i.gifer.com/3Or0V.gif)
+<img src="https://i.gifer.com/3Or0V.gif" alt="Banner" width="480" height="120">
 
-<h3 align="center">Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - Denis Gontero <img src="https://media.tenor.com/y6zG6TM56CYAAAAi/katana-sword.gif" width="200"></h3>
+<h2 align="center">Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist. <img src="https://media.tenor.com/y6zG6TM56CYAAAAi/katana-sword.gif" width="200"></h2>
+
+<div style="font-family: 'Courier New', monospace; background-color: #1e1e1e; color: white; padding: 20px; border-radius: 8px; border: 2px solid #e6a800; box-shadow: 0 0 15px rgba(230, 168, 0, 0.7);">
+  <ul style="list-style-type: none; padding-left: 0;">
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">Age:</strong> 24 years old</li>
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">Passion:</strong> Parkour and music</li>
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">Profession:</strong> Automation Specialist</li>
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">Role:</strong> Computer Technician</li>
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">IT Support Specialist</strong></li>
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">App Developer:</strong> Windows, Android, MacOS, and Linux</li>
+    <li style="font-size: 18px; margin: 10px 0;"><strong style="color: #e6a800;">Interests:</strong> Love for Katanas</li>
+  </ul>
+</div>
 
 
-## 📖 About me
 
-* 💻 I'm a full stack web developer
-* 🎨 I'm a self-taught UI designer
-* 📱 I make apps for Android and iOS
-* 🎓 I'm a Computer Science student (graduating in October 2021)
-* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
-* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+
 
