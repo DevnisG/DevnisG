@@ -2,9 +2,9 @@
 
 <h2 align="center">Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist. <img src="https://media.tenor.com/y6zG6TM56CYAAAAi/katana-sword.gif" width="200"></h2>
 
-![Top of pokeball](https://user-images.githubusercontent.com/44261381/209363264-ac854d3c-2cc2-44c4-928e-8a08d1013f46.png)
+![Top of pokeball](src="assets/katana.png")
 
-![Bottom of pokeball](https://user-images.githubusercontent.com/44261381/209363271-905d2a5e-8a18-44c0-a450-45dddd4d5036.png)
+![Bottom of pokeball](src="assets/saya.png")
 
 <div style="font-family: 'Courier New', monospace; background-color: #1e1e1e; color: white; padding: 20px; border-radius: 8px; border: 2px solid #e6a800; box-shadow: 0 0 15px rgba(230, 168, 0, 0.7);">
   <ul style="list-style-type: none; padding-left: 0;">
