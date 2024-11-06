@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <img src="assets/dg_banner.gif" alt="Banner" width="1000" height="250">
+=======
+<img src="assets/dg_banner.gif alt="Banner" width="1000" height="250">
+>>>>>>> dc01118ee4e74619ec473e493ead110f195952e9
 
 <h2 align="center">Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist. <img src="https://media.tenor.com/y6zG6TM56CYAAAAi/katana-sword.gif" width="200"></h2>
 
