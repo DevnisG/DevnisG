@@ -1,16 +1,14 @@
-## Hi there 👋
+![Banner](https://i.gifer.com/3Or0V.gif)
 
-<!--
-**DevnisG/DevnisG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - Denis Gontero <img src="https://media.tenor.com/y6zG6TM56CYAAAAi/katana-sword.gif" width="200"></h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📖 About me
+
+* 💻 I'm a full stack web developer
+* 🎨 I'm a self-taught UI designer
+* 📱 I make apps for Android and iOS
+* 🎓 I'm a Computer Science student (graduating in October 2021)
+* 🌐 You can see some of my projects on [my portfolio](https://freshidea.com/jonah/)
+* 📺 I make web development and tech tutorials on [YouTube](https://www.youtube.com/c/DevProTips)
+
