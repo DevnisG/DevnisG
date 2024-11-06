@@ -2,7 +2,7 @@
 <img src="assets/banner.gif" alt="Banner" width="1000" height="250">
 
 <!-- TITLE -->
-<h2 align="center">Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist. <img src="https://media.tenor.com/y6zG6TM56CYAAAAi/katana-sword.gif" width="200"></h2>
+<h2 align="center"> <img src="assets/icon.gif" width="100"> Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist. <img src="assets/icon.gif" width="100"></h2>
 
 <!-- KATANA -->
 ![Top of katana](assets/katana.png)
