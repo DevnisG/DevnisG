@@ -23,7 +23,7 @@
 </details>
 
 <!-- SAYA -->
-![Bottom of katana](assets/saya.png)
+![Bottom of katana](assets/saya_long.png)
 
 
 	
