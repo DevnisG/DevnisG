@@ -16,15 +16,14 @@
 
 <!-- ABOUT ME -->
 Hola, soy Denis Gontero  
-<img src="URL_DE_LA_IMAGEN_DEL_CÍRCULO_BLANCO" alt="⚪" width="20" height="20"> Edad: 24 años  
-<img src="URL_DE_LA_IMAGEN_DEL_MUNDO" alt="🌍" width="20" height="20"> Idiomas: Español e Inglés  
-<img src="URL_DE_LA_IMAGEN_DEL_MAPA" alt="📍" width="20" height="20"> Ubicación: Argentina
+<img src="assets/user.png" alt="⚪" width="20" height="20"> Edad: 24 años  
+<img src="assets/age.png" alt="🌍" width="20" height="20"> Idiomas: Español e Inglés  
+<img src="assets/map-pin.png" alt="📍" width="20" height="20"> Ubicación: Argentina
 
 Soy especialista en automatización y hardware. Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
 
 Proyectos actuales:  
-<img src="URL_DE_LA_IMAGEN_DEL_TELESCOPIO" alt="🔭" width="20" height="20"> Actualmente estoy trabajando en H.O.M.E.T, un proyecto de automatización para el hogar.  
-<img src="URL_DE_LA_IMAGEN_DE_PLANTA" alt="🌱" width="20" height="20"> Estoy desarrollando una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python, y Flet.
+<img src="assets/code.png" alt="🔭" width="20" height="20"> Actualmente estoy trabajando en H.O.M.E.T, una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python, y Flet.
 
 ¿Te interesa colaborar?  
 <img src="assets/heart-handshake.png" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
@@ -32,8 +31,7 @@ Proyectos actuales:
 Contáctame:  
 <img src="assets/mail.png" alt="📧" width="20" height="20"> denis.gontero.2000@gmail.com
 
-
-<!-- STATS -->
+<!-- GHUB STATS -->
 
 <!-- FOOTER -->
 
