@@ -14,6 +14,7 @@
 <!-- FOLLOWERS COUNT -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=4493f8&style=flat" alt="DevnisG" /> </p>
 
+<!-- GIF -->
 <a target="_blank" align="center">
   <img align="right" top="400" height="350" width="400" alt="GIF" src="https://i.gifer.com/Nt1f.gif">
 </a>
