@@ -99,7 +99,7 @@ Apps & Lenguajes:
   <img alt="DG | Pwshell" width="20px" src="assets/brand-powershell.png" />
 </a> &nbsp;&nbsp;
 
-  <img alt="DG | Terminal" width="20px" src="assets/brand-terminal.png" />
+  <img alt="DG | Terminal" width="20px" src="assets/terminal.png" />
 </a> &nbsp;&nbsp;
 
   <img alt="DG | Slack" width="20px" src="assets/brand-slack.png" />
@@ -111,13 +111,13 @@ Apps & Lenguajes:
   <img alt="DG | apple" width="20px" src="assets/brand-apple.png" />
 </a> &nbsp;&nbsp;
 
-  <img alt="DG | server" width="20px" src="assets/brand-server.png" />
+  <img alt="DG | server" width="20px" src="assets/server.png" />
 </a> &nbsp;&nbsp;
 
   <img alt="DG | discord" width="20px" src="assets/brand-discord.png" />
 </a> &nbsp;&nbsp;
 
-  <img alt="DG | discord" width="20px" src="assets/brand-windows.png" />
+  <img alt="DG | windows" width="20px" src="assets/brand-windows.png" />
 </a> &nbsp;&nbsp;
 
   <img alt="DG | ai" width="20px" src="assets/ai.png" />
