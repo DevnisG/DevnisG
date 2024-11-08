@@ -1,12 +1,15 @@
+<p align = "center">
 <!-- BANNER -->
 <img src="assets/banner.gif" alt="Banner" width="100%" style="max-width: 1000px;">
 
 <!-- TITLE -->
-<h2>
-  <img src="assets/icon.gif" width="50" style="vertical-align: middle;">
-  Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist.
-  <img src="assets/icon.gif" width="50" style="vertical-align: middle;">
+<h2 align = "center">
+<img src="assets/icon.gif" width="50" style="vertical-align: middle;">
+Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero), an Automation Specialist.
+<img src="assets/icon.gif" width="50" style="vertical-align: middle;">
 </h2>
+
+<div align="center">
 
 ![Top of pokeball](assets/tsuka1.png)
 
@@ -16,7 +19,7 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/10kartik/10kartik/assets/99239411/21742f3f-d9a7-4a53-8530-7d20d51e03a9" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar photo of KK10" src="assets/icon.gif" alt="Avatar photo of KK10">
   </div>
   <div align=center>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
