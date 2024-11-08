@@ -8,7 +8,7 @@
 </h2>
 
 <!-- FOLLOWERS COUNT -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=201e3b&style=flat" alt="DevnisG" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=4493f8&style=flat" alt="DevnisG" /> </p>
 
 <a target="_blank" align="center">
   <img align="right" top="400" height="350" width="400" alt="GIF" src="https://i.gifer.com/Nt1f.gif">
@@ -30,7 +30,7 @@ Proyectos actuales:
 <img src="assets/heart-handshake.png" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
 
 Contáctame:  
-<img src="URL_DE_LA_IMAGEN_DEL_CORREO" alt="📧" width="20" height="20"> denis.gontero.2000@gmail.com
+<img src="assets/mail.png" alt="📧" width="20" height="20"> denis.gontero.2000@gmail.com
 
 
 <!-- STATS -->
