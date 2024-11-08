@@ -51,20 +51,22 @@ Setup:
 - SSD: Nvme 1TB.
 
 <!-- GHUB STATS -->
-<img src="assets/chart-dots.png" alt="🤝" width="20" height="20"> Estadisticas GitHub:
+<img src="assets/chart-dots.png" alt="charts" width="20" height="20"> Estadisticas GitHub:
       <br/>
             <p align="center">
         <a href="https://github.com/DevnisG/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnisG&langs_count=6&theme=dark&layout=compact&hide_border=true"
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
           alt="DevnisG :: Overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/DevnisG/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=dark&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
           alt="DevnisG :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevnisG&theme=dark&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
           alt="DevnisG :: Top Langs by commit" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevnisG&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="DevnisG"/>
           </a>
         </p>
+
 <!-- FOOTER -->
 
