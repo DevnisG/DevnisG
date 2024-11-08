@@ -55,7 +55,9 @@ Setup:
   <br>
 
 <!-- GHUB STATS -->
-<img src="assets/chart-dots.png" alt="charts" width="20" height="20"> Estadisticas GitHub:
+Estadisticas GitHub:
+
+<img src="assets/chart-dots.png" alt="charts" width="20" height="20"> 
       <br/>
             <p align="center">
         <a href="https://github.com/DevnisG/">
