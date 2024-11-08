@@ -8,7 +8,7 @@
   <img src="assets/icon.gif" width="50" style="vertical-align: middle;">
 </h2>
 
-![Top of pokeball](assets/tsuka.png)
+![Top of pokeball](assets/tsuka1.png)
 
 <details>
 <summary>Open profile</summary>
