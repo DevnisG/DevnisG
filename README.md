@@ -27,7 +27,7 @@ Proyectos actuales:
 <img src="URL_DE_LA_IMAGEN_DE_PLANTA" alt="🌱" width="20" height="20"> Estoy desarrollando una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python, y Flet.
 
 ¿Te interesa colaborar?  
-<img src="" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
+<img src="assets/heart-handshake.png" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
 
 Contáctame:  
 <img src="URL_DE_LA_IMAGEN_DEL_CORREO" alt="📧" width="20" height="20"> denis.gontero.2000@gmail.com
