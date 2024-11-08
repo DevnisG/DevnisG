@@ -80,8 +80,6 @@ Setup:
 
 
 <!-- RED -->
- 
- <hr>
   <div align="center">
   <h3><b> Redes Sociales: </b></h3>
   </div>
