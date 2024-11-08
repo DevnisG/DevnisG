@@ -16,7 +16,7 @@
 
 <!-- GIF -->
 <a target="_blank" align="center">
-  <img align="right" top="400" height="350" width="400" alt="GIF" src="https://i.gifer.com/Nt1f.gif">
+  <img align="right" top="400" height="350" width="400" alt="GIF" src="gif.gif">
 </a>
 
 <!-- ABOUT ME -->
