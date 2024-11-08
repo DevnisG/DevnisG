@@ -34,6 +34,6 @@ Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero)
 </details>
 
 ![Bottom_of_katana](assets/saya.png)
-
+</div>
 
 
