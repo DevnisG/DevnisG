@@ -95,9 +95,9 @@ lenguajes
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- RED -->
+Redes:
 
-
-
+<img src="assets/tournament.png" alt="🔭" width="20" height="20"> <a href="denis.gontero.2000@gmail.com" target="_blank">Redes Sociales: </a> 
 <p align="center">
 <a href="https://www.linkedin.com/in/denis-gontero/" target="_blank">
   <img align="center" alt="DG | Linkedin" width="24px" src="assets/brand-linkedin.png" />
