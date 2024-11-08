@@ -50,6 +50,10 @@ Setup:
 - GPU: RTX 4050M 6GB.
 - SSD: Nvme 1TB.
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+
 <!-- GHUB STATS -->
 <img src="assets/chart-dots.png" alt="charts" width="20" height="20"> Estadisticas GitHub:
       <br/>
@@ -68,15 +72,16 @@ Setup:
           </a>
         </p>
 
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <br>
+
 <!-- LANGS & TOOLS -->
 
+
 <!-- RED -->
-<br> 
  
  <hr>
- 
- <br>
-
   <div align="center">
   <h3><b> Redes Sociales: </b></h3>
   </div>
@@ -97,8 +102,6 @@ Setup:
   <img align="center" alt="DG | Discord" width="24px" src="assets/brand-discord.png" />
 </a> &nbsp;&nbsp;
 <p>
-  
-<br>
 
 <!-- FOOTER -->
 <p  align="center">
