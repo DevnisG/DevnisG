@@ -1,12 +1,10 @@
-
 <!-- BANNER -->
 <img src="assets/banner.gif" alt="Banner" width="100%" style="max-width: 1000px;">
 
 <!-- TITLE -->
-<h2 align = "center"> 
-<img src="assets/icon.gif" width="50" style="vertical-align: middle;">
-Hola, Soy <a href="https://github.com/DevnisG">Denis Gontero</a> - Especialista en Automatizacion.
-  <img src="assets/icon.gif" width="50" style="vertical-align: middle;">
+<h2 align="center">
+  <span><img src="https://github.com/user-attachments/assets/e521542d-76c8-4d4a-bbf8-b8ffc266ca89" width="50" style="vertical-align: middle;"></span>
+  <span>Soy <a href="https://github.com/DevnisG">Denis Gontero</a> - Especialista en Automatización.</span>
 </h2>
 
 <!-- FOLLOWERS COUNT -->
