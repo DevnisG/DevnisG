@@ -16,7 +16,7 @@
 
 <!-- GIF -->
 <a target="_blank" align="center">
-  <img align="right" top="400" height="350" width="400" alt="GIF" src="gif.gif">
+  <img align="right" top="400" height="350" width="400" alt="GIF" src="assets/gif.gif">
 </a>
 
 <!-- ABOUT ME -->
@@ -61,10 +61,9 @@ Setup:
   <br>
 
 <!-- GHUB STATS -->
-Estadisticas GitHub:
+Estadisticas:
 
-<img src="assets/chart-dots.png" alt="charts" width="20" height="20"> 
-      <br/>
+<img src="assets/chart-dots.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG" target="_blank">GitHub: </a> 
             <p align="center">
         <a href="https://github.com/DevnisG/">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
@@ -96,9 +95,9 @@ lenguajes
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- RED -->
-  <div align="center">
-  <h3><b> Redes Sociales: </b></h3>
-  </div>
+
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/denis-gontero/" target="_blank">
   <img align="center" alt="DG | Linkedin" width="24px" src="assets/brand-linkedin.png" />
