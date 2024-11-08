@@ -15,22 +15,56 @@
 </a>
 
 <!-- ABOUT ME -->
-Hola, soy Denis Gontero  
-<img src="assets/user.png" alt="⚪" width="20" height="20"> Edad: 24 años  
-<img src="assets/age.png" alt="🌍" width="20" height="20"> Idiomas: Español e Inglés  
-<img src="assets/map-pin.png" alt="📍" width="20" height="20"> Ubicación: Argentina
-<img src="assets/target-2.png" alt="⤴️" width="20" height="20"> Obejtivo: Automatización y hardware. Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
+<img src="assets/user.png" alt="🌍" width="20" height="20"> Hola, soy Denis Gontero.  
 
-Proyectos actuales:  
-<img src="assets/code.png" alt="🔭" width="20" height="20"> Actualmente estoy trabajando en H.O.M.E.T, una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python, y Flet.
+<img src="assets/age.png" alt="⚪" width="20" height="20"> Edad: 24 años.  
 
-¿Te interesa colaborar?  
+<img src="assets/language.png" alt="🌍" width="20" height="20"> Idiomas: Español e Inglés.
+
+<img src="assets/map-pin.png" alt="📍" width="20" height="20"> Ubicación: Argentina.
+
+<img src="assets/focus-2.png" alt="⤴️" width="20" height="20"> Obejtivo: Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
+
+Proyectos actuales:
+
+<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/homet" target="_blank">H.O.M.E.T</a> - Una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python y Flet.
+
+¿Te interesa colaborar?
+
 <img src="assets/heart-handshake.png" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
 
-Contáctame:  
+Contáctame:
+
 <img src="assets/mail.png" alt="📧" width="20" height="20"> denis.gontero.2000@gmail.com
 
-<!-- GHUB STATS -->
+Setup:
 
+<img src="assets/laptop.png" alt="🔭" width="20" height="20"> <a href="https://www.amazon.com/-/es/GeForce-i7-12650H-retroiluminado-NH-QLZAA-008-renovado/dp/B0CMJQZWMD" target="_blank">Notebook: </a> 
+
+- OS: Windows 11 Pro.
+- IDE: Visual Studio Code.
+- X3 MONITOR 15.6".
+- MD: ACER NITRO V AN515-58.
+- CPU: Intel Core i7 12650h.
+- RAM: 16GB DDR5 4800Mhz.
+- GPU: RTX 4050M 6GB.
+- SSD: Nvme 1TB.
+
+<!-- GHUB STATS -->
+<img src="assets/chart-dots.png" alt="🤝" width="20" height="20"> Estadisticas GitHub:
+      <br/>
+            <p align="center">
+        <a href="https://github.com/DevnisG/">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevnisG&langs_count=6&theme=dark&layout=compact&hide_border=true"
+          alt="DevnisG :: Overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/DevnisG/">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=dark&layout=compact&hide_border=true"
+          alt="DevnisG :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevnisG&theme=dark&layout=compact&hide_border=true"
+          alt="DevnisG :: Top Langs by commit" />
+          </a>
+        </p>
 <!-- FOOTER -->
 
