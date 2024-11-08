@@ -11,7 +11,7 @@ Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero)
 
 <div align="center">
 
-![Top of pokeball](assets/tsuka1.png)
+![Top of pokeball](assets/tsuka1.png) 
 
 <details>
 <summary>Open profile</summary>
@@ -21,8 +21,7 @@ Hey there, I'm <a href="https://github.com/DevnisG">Devnis</a> - (Denis Gontero)
   <div align=center>
       <img height="200" alt="Avatar photo of KK10" src="assets/icon.gif" alt="Avatar photo of KK10">
   </div>
-  <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+  <div <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&width=500&height=100&lines=I'm+a+Programmer;I'm+an+Automation+Specialist;I'm+a+Scripting+and+Scraping+Specialist;I'm+a+Backend+Developer;I'm+an+IT+Support+Specialist;I'm+a+Hardware+Enthusiast;I'm+a+Computer+Technician" alt="Typing SVG" /></a>
   </div>
 </div>
 
