@@ -120,13 +120,13 @@ Apps & Lenguajes:
   <img alt="DG | discord" width="20px" src="assets/brand-windows.png" />
 </a> &nbsp;&nbsp;
 
-  <img alt="DG | ai" width="20px" src="assets/brand-ai.png" />
+  <img alt="DG | ai" width="20px" src="assets/ai.png" />
 </a> &nbsp;&nbsp;
 
   <img alt="DG | github" width="20px" src="assets/brand-github.png" />
 </a> &nbsp;&nbsp;
 
-  <img alt="DG | hardware" width="20px" src="assets/brand-cpu.png" />
+  <img alt="DG | hardware" width="20px" src="assets/cpu.png" />
 </a> &nbsp;&nbsp;
 
   <img alt="DG | go" width="20px" src="assets/brand-golang.png" />
