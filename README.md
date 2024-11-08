@@ -68,5 +68,40 @@ Setup:
           </a>
         </p>
 
-<!-- FOOTER -->
+<!-- LANGS & TOOLS -->
 
+<!-- RED -->
+<br> 
+ 
+ <hr>
+ 
+ <br>
+
+  <div align="center">
+  <h3><b> Redes Sociales: </b></h3>
+  </div>
+<p align="center">
+<a href="https://www.linkedin.com/in/denis-gontero/" target="_blank">
+  <img align="center" alt="DG | Linkedin" width="24px" src="assets/brand-linkedin.png" />
+</a> &nbsp;&nbsp;
+  
+<a href="https://api.whatsapp.com/send/?phone=3564579716&text=Hola%2C%20vengo%20desde%20GitHub!&type=phone_number&app_absent=0" target="_blank">
+  <img align="center" alt="DG | Twitter" width="24px" src="assets/brand-whatsapp.png" />
+</a> &nbsp;&nbsp;
+
+<a href="https://www.instagram.com/denis_hdw/" target="_blank">
+  <img align="center" alt="DG | Instagram" width="24px" src="assets/brand-instagram.png" />
+</a> &nbsp;&nbsp;
+
+<a href="https://discord.gg/cMZtcGzvyA" >
+  <img align="center" alt="DG | Discord" width="24px" src="assets/brand-discord.png" />
+</a> &nbsp;&nbsp;
+<p>
+  
+<br>
+
+<!-- FOOTER -->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<h2 align="center"> CODE  / SLEEP  / EAT  / REPEAT </h2>
+  <br>
