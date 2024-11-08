@@ -19,8 +19,7 @@ Hola, soy Denis Gontero
 <img src="assets/user.png" alt="⚪" width="20" height="20"> Edad: 24 años  
 <img src="assets/age.png" alt="🌍" width="20" height="20"> Idiomas: Español e Inglés  
 <img src="assets/map-pin.png" alt="📍" width="20" height="20"> Ubicación: Argentina
-
-Soy especialista en automatización y hardware. Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
+<img src="assets/target-2.png" alt="⤴️" width="20" height="20"> Obejtivo: Automatización y hardware. Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
 
 Proyectos actuales:  
 <img src="assets/code.png" alt="🔭" width="20" height="20"> Actualmente estoy trabajando en H.O.M.E.T, una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python, y Flet.
