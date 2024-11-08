@@ -7,6 +7,10 @@
   <span> Soy <a href="https://github.com/DevnisG">Devnis</a> - Especialista en Automatización.</span>
 </h2>
 
+<!-- SEPARATOR -->
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
 <!-- FOLLOWERS COUNT -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=4493f8&style=flat" alt="DevnisG" /> </p>
 
@@ -50,6 +54,7 @@ Setup:
 - GPU: RTX 4050M 6GB.
 - SSD: Nvme 1TB.
 
+<!-- SEPARATOR -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   <br>
@@ -74,6 +79,7 @@ Estadisticas GitHub:
           </a>
         </p>
 
+<!-- SEPARATOR -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
