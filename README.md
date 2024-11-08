@@ -7,10 +7,6 @@
   <span> Soy <a href="https://github.com/DevnisG">Devnis</a> - Especialista en Automatización.</span>
 </h2>
 
-<!-- SEPARATOR -->
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <!-- FOLLOWERS COUNT -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=4493f8&style=flat" alt="DevnisG" /> </p>
 
@@ -84,11 +80,66 @@ Estadisticas:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- LANGS & TOOLS -->
-lenguajes
-lenguajes
-lenguajes
-lenguajes
-lenguajes
+Apps & Lenguajes: 
+
+<img src="assets/apps.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG" target="_blank">Apps: </a> 
+  
+  <img alt="DG | Python" width="20px" src="assets/brand-python.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | Git" width="20px" src="assets/brand-git.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | Github" width="20px" src="assets/brand-python.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | VSCode" width="20px" src="assets/brand-vscode.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | Pwshell" width="20px" src="assets/brand-powershell.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | Terminal" width="20px" src="assets/brand-terminal.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | Slack" width="20px" src="assets/brand-slack.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | android" width="20px" src="assets/brand-android.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | apple" width="20px" src="assets/brand-apple.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | server" width="20px" src="assets/brand-server.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | discord" width="20px" src="assets/brand-discord.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | discord" width="20px" src="assets/brand-windows.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | ai" width="20px" src="assets/brand-ai.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | github" width="20px" src="assets/brand-github.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | hardware" width="20px" src="assets/brand-cpu.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | go" width="20px" src="assets/brand-golang.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | cpp" width="20px" src="assets/brand-cpp.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | flet" width="20px" src="assets/brand-flutter.png" />
+</a> &nbsp;&nbsp;
+
+  <img alt="DG | django" width="20px" src="assets/brand-django.png" />
+</a> &nbsp;&nbsp;
 
 <!-- SEPARATOR -->
 <p  align="center">
