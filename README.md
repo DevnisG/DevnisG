@@ -95,6 +95,7 @@ Stack & Tecnologías:
   <img alt="DG | Android" width="25px" src="assets/brand-android.png" /> &nbsp;&nbsp;
   <img alt="DG | Apple" width="25px" src="assets/brand-apple.png" /> &nbsp;&nbsp;
   <img alt="DG | Discord" width="25px" src="assets/brand-discord.png" /> &nbsp;&nbsp;
+  <img alt="DG | Flask" width="25px" src="assets/flask.svg" /> &nbsp;&nbsp;
   <img alt="DG | Windows" width="25px" src="assets/brand-windows.png" /> &nbsp;&nbsp;
   <img alt="DG | Server" width="25px" src="assets/server.png" /> &nbsp;&nbsp;
   <img alt="DG | Hardware" width="25px" src="assets/cpu.png" /> &nbsp;&nbsp;
