@@ -24,7 +24,7 @@
 
 <img src="assets/map-pin.png" alt="📍" width="20" height="20"> Ubicación: Argentina.
 
-<img src="assets/focus-2.png" alt="⤴️" width="20" height="20"> Obejtivo: Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
+<img src="assets/focus-2.png" alt="⤴️" width="20" height="20"> Objetivo: Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
 
 Proyectos actuales:
 
@@ -44,11 +44,11 @@ Setup:
 
 - OS: Windows 11 Pro.
 - IDE: Visual Studio Code.
-- X3 MONITOR 15.6".
 - MD: ACER NITRO V AN515-58.
+- MONITOR: X3 15.6".
 - CPU: Intel Core i7 12650h.
 - RAM: 16GB DDR5 4800Mhz.
-- GPU: RTX 4050M 6GB.
+- GPU: Nvidia RTX 4050M 6GB.
 - SSD: Nvme 1TB.
 
 <!-- SEPARATOR -->
@@ -80,54 +80,35 @@ Estadisticas:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <!-- LANGS & TOOLS -->
-Apps & Lenguajes: 
+Stack & Tecnologías: 
 
-<img src="assets/apps.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG" target="_blank">Apps: </a> 
+<img src="assets/apps.png" alt="apps" width="20" height="20"> <a href="https://github.com/DevnisG" target="_blank">Stack: </a> 
   <p  align="center">
-  <img alt="DG | Python" width="25px" src="assets/brand-python.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | Git" width="25px" src="assets/brand-git.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | Github" width="25px" src="assets/brand-python.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | VSCode" width="25px" src="assets/brand-vscode.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | Pwshell" width="25px" src="assets/brand-powershell.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | Terminal" width="25px" src="assets/terminal.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | Slack" width="25px" src="assets/brand-slack.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | android" width="25px" src="assets/brand-android.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | apple" width="25px" src="assets/brand-apple.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | server" width="25px" src="assets/server.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | discord" width="25px" src="assets/brand-discord.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | windows" width="25px" src="assets/brand-windows.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | ai" width="25px" src="assets/ai.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | github" width="25px" src="assets/brand-github.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | hardware" width="25px" src="assets/cpu.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | go" width="25px" src="assets/brand-golang.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | cpp" width="25px" src="assets/brand-cpp.png" />
-</a> &nbsp;&nbsp;
-  <img alt="DG | flet" width="25px" src="assets/brand-flutter.png" />
-</a> &nbsp;&nbsp;
-<img alt="DG | django" width="25px" src="assets/brand-django.png" />
-</a> &nbsp;&nbsp;
+  <img alt="DG | Git" width="25px" src="assets/brand-git.png" /> &nbsp;&nbsp;
+  <img alt="DG | Github" width="25px" src="assets/brand-github.png" /> &nbsp;&nbsp;
+  <img alt="DG | VSCode" width="25px" src="assets/brand-vscode.png" /> &nbsp;&nbsp;
+  <img alt="DG | Powershell" width="25px" src="assets/brand-powershell.png" /> &nbsp;&nbsp;
+  <img alt="DG | Terminal" width="25px" src="assets/terminal.png" /> &nbsp;&nbsp;
+  <img alt="DG | Slack" width="25px" src="assets/brand-slack.png" /> &nbsp;&nbsp;
+  <img alt="DG | Android" width="25px" src="assets/brand-android.png" /> &nbsp;&nbsp;
+  <img alt="DG | Apple" width="25px" src="assets/brand-apple.png" /> &nbsp;&nbsp;
+  <img alt="DG | Discord" width="25px" src="assets/brand-discord.png" /> &nbsp;&nbsp;
+  <img alt="DG | Windows" width="25px" src="assets/brand-windows.png" /> &nbsp;&nbsp;
+  <img alt="DG | Server" width="25px" src="assets/server.png" /> &nbsp;&nbsp;
+  <img alt="DG | Hardware" width="25px" src="assets/cpu.png" /> &nbsp;&nbsp;
+  <img alt="DG | Python" width="25px" src="assets/brand-python.png" /> &nbsp;&nbsp;
+  <img alt="DG | Go" width="25px" src="assets/brand-golang.png" /> &nbsp;&nbsp;
+  <img alt="DG | C++" width="25px" src="assets/brand-cpp.png" /> &nbsp;&nbsp;
+  <img alt="DG | Flet" width="25px" src="assets/brand-flutter.png" /> &nbsp;&nbsp;
+  <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
+  <img alt="DG | AI" width="25px" src="assets/ai.png" /> &nbsp;&nbsp;
+</p>
 
 <!-- SEPARATOR -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<!-- RED -->
+<!-- SOCIAL MEDIA -->
 Redes:
 
 <img src="assets/tournament.png" alt="🔭" width="20" height="20"> <a href="denis.gontero.2000@gmail.com" target="_blank">Redes Sociales: </a> 
@@ -135,15 +116,12 @@ Redes:
 <a href="https://www.linkedin.com/in/denis-gontero/" target="_blank">
   <img align="center" alt="DG | Linkedin" width="24px" src="assets/brand-linkedin.png" />
 </a> &nbsp;&nbsp;
-  
 <a href="https://api.whatsapp.com/send/?phone=3564579716&text=Hola%2C%20vengo%20desde%20GitHub!&type=phone_number&app_absent=0" target="_blank">
   <img align="center" alt="DG | Twitter" width="24px" src="assets/brand-whatsapp.png" />
 </a> &nbsp;&nbsp;
-
 <a href="https://www.instagram.com/denis_hdw/" target="_blank">
   <img align="center" alt="DG | Instagram" width="24px" src="assets/brand-instagram.png" />
 </a> &nbsp;&nbsp;
-
 <a href="https://discord.gg/cMZtcGzvyA" >
   <img align="center" alt="DG | Discord" width="24px" src="assets/brand-discord.png" />
 </a> &nbsp;&nbsp;
