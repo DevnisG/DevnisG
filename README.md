@@ -103,10 +103,10 @@ Stack & Tecnologías:
   <img alt="DG | C++" width="25px" src="assets/brand-cpp.png" /> &nbsp;&nbsp;
   <img alt="DG | Flet" width="25px" src="assets/brand-flutter.png" /> &nbsp;&nbsp;
   <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
-  <img alt="DG | fastapi" width="25px" src="assets/ap.png" /> &nbsp;&nbsp;
-  <img alt="DG | arduino" width="25px" src="assets/bateri.png" /> &nbsp;&nbsp;
-  <img alt="DG | notion" width="25px" src="assets/brand-notio.png" /> &nbsp;&nbsp;
-  <img alt="DG | office" width="25px" src="assets/brand-offic.png" /> &nbsp;&nbsp;
+  <img alt="DG | fastapi" width="25px" src="assets/api.png" /> &nbsp;&nbsp;
+  <img alt="DG | arduino" width="25px" src="assets/bateria.png" /> &nbsp;&nbsp;
+  <img alt="DG | notion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
+  <img alt="DG | office" width="25px" src="assets/brand-office.png" /> &nbsp;&nbsp;
 </p>
 
 <!-- SEPARATOR -->
