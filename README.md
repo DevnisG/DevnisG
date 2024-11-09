@@ -100,6 +100,7 @@ Stack & Tecnologías:
   <img alt="DG | Hardware" width="25px" src="assets/cpu.png" /> &nbsp;&nbsp;
   <img alt="DG | Python" width="25px" src="assets/brand-python.png" /> &nbsp;&nbsp;
   <img alt="DG | Go" width="25px" src="assets/brand-golang.png" /> &nbsp;&nbsp;
+  <img alt="DG | flet" width="25px" src="assets/flet.svg" /> &nbsp;&nbsp;
   <img alt="DG | C++" width="25px" src="assets/brand-cpp.png" /> &nbsp;&nbsp;
   <img alt="DG | Flet" width="25px" src="assets/brand-flutter.png" /> &nbsp;&nbsp;
   <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
