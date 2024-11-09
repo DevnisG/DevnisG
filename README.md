@@ -89,7 +89,7 @@ Stack & Tecnologías:
   <img alt="DG | Git" width="25px" src="assets/brand-git.png" /> &nbsp;&nbsp;
   <img alt="DG | Github" width="25px" src="assets/brand-github.png" /> &nbsp;&nbsp;
   <img alt="DG | VSCode" width="25px" src="assets/brand-vscode.png" /> &nbsp;&nbsp;
-
+  <img alt="DG | FastAPI" width="25px" src="assets/fastapi.svg" /> &nbsp;&nbsp;
   <img alt="DG | Terminal" width="25px" src="assets/terminal.png" /> &nbsp;&nbsp;
   <img alt="DG | Slack" width="25px" src="assets/brand-slack.png" /> &nbsp;&nbsp;
   <img alt="DG | Android" width="25px" src="assets/brand-android.png" /> &nbsp;&nbsp;
@@ -102,14 +102,15 @@ Stack & Tecnologías:
   <img alt="DG | flet" width="25px" src="assets/flet.svg" /> &nbsp;&nbsp;
   <img alt="DG | Flet" width="25px" src="assets/brand-flutter.png" /> &nbsp;&nbsp;
   <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
-  <img alt="DG | fastapi" width="25px" src="assets/api.png" /> &nbsp;&nbsp;
-  <img alt="DG | arduino" width="25px" src="assets/bateria.png" /> &nbsp;&nbsp;
-  <img alt="DG | notion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
-  <img alt="DG | office" width="25px" src="assets/brand-office.png" /> &nbsp;&nbsp;
+  <img alt="DG | Api" width="25px" src="assets/api.png" /> &nbsp;&nbsp;
+  <img alt="DG | Arduino" width="25px" src="assets/bateria.png" /> &nbsp;&nbsp;
+  <img alt="DG | Motion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
+  <img alt="DG | Office" width="25px" src="assets/brand-office.png" /> &nbsp;&nbsp;
   <img alt="DG | Python" width="25px" src="assets/brand-python.png" /> &nbsp;&nbsp;
   <img alt="DG | Powershell" width="25px" src="assets/brand-powershell.png" /> &nbsp;&nbsp;
   <img alt="DG | Go" width="25px" src="assets/brand-golang.png" /> &nbsp;&nbsp;
-   <img alt="DG | C++" width="25px" src="assets/brand-cpp.png" /> &nbsp;&nbsp;
+  <img alt="DG | C++" width="25px" src="assets/brand-cpp.png" /> &nbsp;&nbsp;
+    
 </p>
 
 <!-- SEPARATOR -->
