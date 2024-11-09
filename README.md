@@ -89,7 +89,7 @@ Stack & Tecnologías:
   <img alt="DG | Git" width="25px" src="assets/brand-git.png" /> &nbsp;&nbsp;
   <img alt="DG | Github" width="25px" src="assets/brand-github.png" /> &nbsp;&nbsp;
   <img alt="DG | VSCode" width="25px" src="assets/brand-vscode.png" /> &nbsp;&nbsp;
-  <img alt="DG | FastAPI" width="25px" src="assets/fastapi.svg" /> &nbsp;&nbsp;
+  <img alt="DG | FastAPI" width="25px" src="assets/fastapi.png" /> &nbsp;&nbsp;
   <img alt="DG | Terminal" width="25px" src="assets/terminal.png" /> &nbsp;&nbsp;
   <img alt="DG | Slack" width="25px" src="assets/brand-slack.png" /> &nbsp;&nbsp;
   <img alt="DG | Android" width="25px" src="assets/brand-android.png" /> &nbsp;&nbsp;
