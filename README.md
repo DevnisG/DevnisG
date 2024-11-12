@@ -50,7 +50,7 @@ Setup:
   <li><strong>CPU:</strong> Intel Core i7 12650H</li>
   <li><strong>RAM:</strong> 16GB DDR5 4800MHz</li>
   <li><strong>GPU:</strong> Nvidia RTX 4050M 6GB</li>
-  <li><strong>Almacenamiento:</strong> SSD Nvme 1TB</li>
+  <li><strong>Almacenamiento:</strong> SSD Nvme 2TB</li>
 </ul>
 
 <!-- SEPARATOR -->
@@ -104,7 +104,8 @@ Stack & Tecnologías:
   <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
   <img alt="DG | Api" width="25px" src="assets/api.png" /> &nbsp;&nbsp;
   <img alt="DG | Arduino" width="25px" src="assets/bateria.png" /> &nbsp;&nbsp;
-  <img alt="DG | Motion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
+  <img alt="DG | Bat" width="25px" src="assets/bat.png" /> &nbsp;&nbsp;
+  <img alt="DG | Notion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
   <img alt="DG | Office" width="25px" src="assets/brand-office.png" /> &nbsp;&nbsp;
   <img alt="DG | Python" width="25px" src="assets/brand-python.png" /> &nbsp;&nbsp;
   <img alt="DG | Powershell" width="25px" src="assets/brand-powershell.png" /> &nbsp;&nbsp;
