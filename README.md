@@ -104,7 +104,7 @@ Stack & Tecnologías:
   <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
   <img alt="DG | Api" width="25px" src="assets/api.png" /> &nbsp;&nbsp;
   <img alt="DG | Arduino" width="25px" src="assets/bateria.png" /> &nbsp;&nbsp;
-  <img alt="DG | Bat" width="25px" src="assets/bat.png" /> &nbsp;&nbsp;
+  <img alt="DG | Bat" width="25px" src="assets/batch.png" /> &nbsp;&nbsp;
   <img alt="DG | Notion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
   <img alt="DG | Office" width="25px" src="assets/brand-office.png" /> &nbsp;&nbsp;
   <img alt="DG | Python" width="25px" src="assets/brand-python.png" /> &nbsp;&nbsp;
