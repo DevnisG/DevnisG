@@ -26,7 +26,7 @@
 
 <img src="assets/focus-2.png" alt="⤴️" width="20" height="20"> Objetivo: Mi enfoque se centra en el desarrollo de soluciones que optimicen procesos tecnológicos y el rendimiento de sistemas.
 
-Proyecto para la Comunidad:
+Proyecto Open Source:
 
 <img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/homet" target="_blank">H.O.M.E.T</a> - Una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python y Flet.
 
