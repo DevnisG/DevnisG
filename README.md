@@ -30,6 +30,36 @@ Proyecto Open Source:
 
 <img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/homet" target="_blank">H.O.M.E.T</a> - Una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python y Flet.
 
+<!-- PROJECTS -->
+<h3>Último Proyecto Activo Público:</h3>
+<p id="last-project">Cargando...</p>
+
+<script>
+  async function fetchLastProject() {
+    const username = "DevnisG"; // Cambia esto si tu nombre de usuario es diferente
+    const url = `https://api.github.com/users/${username}/repos?sort=updated&direction=desc`;
+
+    try {
+      const response = await fetch(url);
+      const repos = await response.json();
+
+      if (repos.length > 0) {
+        const lastProject = repos[0]; // El primer repositorio es el más reciente
+        const projectName = lastProject.name;
+        const projectUrl = lastProject.html_url;
+        document.getElementById("last-project").innerHTML = `<a href="${projectUrl}" target="_blank">${projectName}</a>`;
+      } else {
+        document.getElementById("last-project").innerHTML = "No tienes proyectos activos públicos en GitHub.";
+      }
+    } catch (error) {
+      document.getElementById("last-project").innerHTML = "Error al obtener el proyecto.";
+      console.error(error);
+    }
+  }
+
+  fetchLastProject();
+</script>
+
 ¿Te interesa colaborar?
 
 <img src="assets/heart-handshake.png" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
