@@ -1,9 +1,8 @@
 <!-- BANNER -->
 <img src="assets/banner.gif" alt="Banner" width="100%" style="max-width: 1000px;">
 
-<!-- Título dinámico con efecto de tipeo -->
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola%20hola;%20Soy%20Devnis%2C%20Desarrollador%20Python%2FBackend%2FAutomatización" width="70%" />
-
+<!-- TITLE -->
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=428FF3&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola%2C%20Soy%20Devnis%20G%20un%20especialista%20en%20automatizacion%2C%20backend%20developer%2C%20python%20developer" width="70%" />
 
 <!-- FOLLOWERS COUNT -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=4493f8&style=flat" alt="DevnisG" /> </p>
