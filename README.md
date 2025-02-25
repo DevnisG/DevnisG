@@ -4,7 +4,8 @@
 <!-- TITLE -->
 <h2 align="center">
   <span><img src="https://github.com/user-attachments/assets/e521542d-76c8-4d4a-bbf8-b8ffc266ca89" width="80" style="vertical-align: middle;"></span>,
-  <span> Soy <a href="https://github.com/DevnisG">Devnis</a> - Especialista en Automatización.</span>
+  <span> Soy <a href="https://github.com/DevnisG">Devnis</a> - </span>
+  ![Dynamic Title](https://img.shields.io/static/v1?label=Soy%20Devnis&message=Desarrollador%20Python%20%2F%20Backend%20%2F%20Automatizaci%C3%B3n&color=blue)
 </h2>
 
 <!-- FOLLOWERS COUNT -->
