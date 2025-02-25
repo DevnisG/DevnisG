@@ -1,11 +1,9 @@
 <!-- BANNER -->
 <img src="assets/banner.gif" alt="Banner" width="100%" style="max-width: 1000px;">
 
-<!-- TITLE -->
-<h2 align="center">
-  <span><img src="https://github.com/user-attachments/assets/e521542d-76c8-4d4a-bbf8-b8ffc266ca89" width="80" style="vertical-align: middle;"></span>,
-  <span> Soy <a href="https://github.com/DevnisG">Devnis</a> - Especialista en Automatización.</span>
-</h2>
+<!-- Título dinámico con efecto de tipeo -->
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola%20hola;%20Soy%20Devnis%2C%20Desarrollador%20Python%2FBackend%2FAutomatización" width="70%" />
+
 
 <!-- FOLLOWERS COUNT -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevnisG&label=Vistas%20de%20perfil&color=4493f8&style=flat" alt="DevnisG" /> </p>
