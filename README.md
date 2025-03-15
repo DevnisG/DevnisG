@@ -28,7 +28,7 @@
 
 Proyecto Open Source:
 
-<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/homet" target="_blank">H.O.M.E.T</a> - Una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando C#, Python y Flet.
+<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/homet" target="_blank">H.O.M.E.T</a> - Una aplicación para optimizar las temperaturas y el rendimiento de CPUs, utilizando Python y Flet.
 
 ¿Te interesa colaborar?
 
