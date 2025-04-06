@@ -34,6 +34,10 @@ Proyecto Para Python Community:
 
 <img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/delpyche" target="_blank">Delpyche</a> - Una aplicación para hacer Tracking a el cache generado por Python y eliminarlo automaticamente.
 
+SDK Open Source: 
+
+<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/sdk-youtube-control" target="_blank">S.Y.C</a> - SDK para control programático del reproductor de YouTube.
+
 ¿Te interesa colaborar?
 
 <img src="assets/heart-handshake.png" alt="🤝" width="20" height="20"> Estoy disponible para trabajos freelance en automatización, hardware, software y tecnología en general.
