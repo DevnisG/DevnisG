@@ -36,7 +36,7 @@ Proyecto Para Python Community:
 
 SDK Open Source: 
 
-<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/sdk-youtube-control" target="_blank">S.Y.C</a> - SDK para control programático del reproductor de YouTube.
+<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/sdk-youtube-control" target="_blank">S.Y.C</a> - SDK para control programático del reproductor de YouTube mediante iFrame y YouTube API v3.
 
 ¿Te interesa colaborar?
 
