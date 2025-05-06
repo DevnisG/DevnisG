@@ -34,6 +34,8 @@ Proyecto Para Python Community:
 
 <img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/delpyche" target="_blank">Delpyche</a> - Una aplicación para hacer Tracking a el cache generado por Python y eliminarlo automaticamente.
 
+<img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/Venvmnu" target="_blank">Venmnu</a> - Una app tipo CLI para administrar entornos Venv.
+
 SDK Open Source: 
 
 <img src="assets/code.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG/sdk-youtube-control" target="_blank">S.Y.C</a> - SDK para control programático del reproductor de YouTube mediante iFrame y YouTube API v3.
