@@ -4,7 +4,7 @@
 <!-- TITLE -->
 <h2 align="center">
   <span><img src="https://github.com/user-attachments/assets/e521542d-76c8-4d4a-bbf8-b8ffc266ca89" width="80" style="vertical-align: middle;"></span>,
-  <span> Soy <a href="https://github.com/DevnisG">Devnis</a> - Desarrollador Python / Backend / Especialista en Automatización.</span>
+  <span> Soy <a href="https://github.com/DevnisG">DevnisG</a> - Desarrollador Python / Backend / Especialista en Automatización.</span>
 </h2>
 
 <!-- FOLLOWERS COUNT -->
