@@ -53,14 +53,14 @@ Setup:
 <img src="assets/laptop.png" alt="🔭" width="20" height="20"> <a href="https://www.amazon.com/-/es/GeForce-i7-12650H-retroiluminado-NH-QLZAA-008-renovado/dp/B0CMJQZWMD" target="_blank">Notebook: </a> 
 
 <ul>
-  <li><strong>OS:</strong> Windows 11 Pro</li>
-  <li><strong>IDE:</strong> Visual Studio Code</li>
+  <li><strong>OS:</strong> Ubuntu 25.10</li>
+  <li><strong>IDE:</strong> Zed</li>
   <li><strong>Modelo:</strong> ACER NITRO V AN515-58</li>
-  <li><strong>Monitor:</strong> X3 15.6"</li>
+  <li><strong>Monitor:</strong>X1 Xiaomi 27" & X3 15.6"</li>
   <li><strong>CPU:</strong> Intel Core i7 12650H</li>
-  <li><strong>RAM:</strong> 16GB DDR5 4800MHz</li>
+  <li><strong>RAM:</strong> 32GB DDR5 4800MHz</li>
   <li><strong>GPU:</strong> Nvidia RTX 4050M 6GB</li>
-  <li><strong>Almacenamiento:</strong> SSD Nvme 2TB</li>
+  <li><strong>Almacenamiento:</strong> SSD Nvme 2.5TB</li>
 </ul>
 
 <!-- SEPARATOR -->
