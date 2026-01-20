@@ -12,7 +12,7 @@
 
 <!-- GIF -->
 <a target="_blank" align="center">
-  <img align="right" top="400" height="350" width="400" alt="GIF" src="https://cdn2.hubspot.net/hub/7379058/hubfs/20210622_Blog%20Featured%20Image.gif">
+  <img align="right" top="400" height="350" width="400" alt="GIF" src="https://app.lottiefiles.com/share/53a86328-308b-4769-8de0-85b57154cf57">
 </a>
 
 <!-- ABOUT ME -->
