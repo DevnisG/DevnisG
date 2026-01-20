@@ -12,7 +12,7 @@
 
 <!-- GIF -->
 <a target="_blank" align="center">
-  <img align="right" top="400" height="350" width="400" alt="GIF" src="assets/gif-automation.gif">
+  <img align="right" top="400" height="350" width="400" alt="GIF" src="https://lottie.host/embed/b1d672f1-8f72-477e-97cf-df6fe375f17d/BX75rSaO70.lottie">
 </a>
 
 <!-- ABOUT ME -->
