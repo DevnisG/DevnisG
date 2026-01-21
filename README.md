@@ -12,7 +12,7 @@
 
 <!-- GIF -->
 <a target="_blank" align="center">
-  <img align="right" top="400" height="350" width="400" alt="GIF" src="https://lottie.host/embed/b1d672f1-8f72-477e-97cf-df6fe375f17d/BX75rSaO70.lottie">
+  <img align="right" top="400" height="350" width="400" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanp3NnI0Zmk5cGJieHF3MjBvbzNlMHU0ZTF3dnhvODdocWI4b2o3diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </a>
 
 <!-- ABOUT ME -->
