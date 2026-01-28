@@ -56,7 +56,7 @@ Setup:
   <li><strong>OS:</strong> Ubuntu 25.10</li>
   <li><strong>IDE:</strong> Zed</li>
   <li><strong>Modelo:</strong> ACER NITRO V AN515-58</li>
-  <li><strong>Monitor:</strong>X1 Xiaomi 27" & X3 15.6"</li>
+  <li><strong>Monitor:</strong> X1 Xiaomi 27" & X3 15.6"</li>
   <li><strong>CPU:</strong> Intel Core i7 12650H</li>
   <li><strong>RAM:</strong> 32GB DDR5 4800MHz</li>
   <li><strong>GPU:</strong> Nvidia RTX 4050M 6GB</li>
