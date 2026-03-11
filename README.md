@@ -18,7 +18,7 @@
 <!-- ABOUT ME -->
 <img src="assets/user.png" alt="🌍" width="20" height="20"> Hola, soy Denis Gontero.  
 
-<img src="assets/age.png" alt="⚪" width="20" height="20"> Edad: 25 años.  
+<img src="assets/age.png" alt="⚪" width="20" height="20"> Edad: 26 años.  
 
 <img src="assets/language.png" alt="🌍" width="20" height="20"> Idiomas: Español e Inglés.
 
