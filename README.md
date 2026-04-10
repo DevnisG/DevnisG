@@ -48,21 +48,6 @@ Contáctame:
 
 <img src="assets/mail.png" alt="📧" width="20" height="20"> denis.gontero.2000@gmail.com
 
-Setup:
-
-<img src="assets/laptop.png" alt="🔭" width="20" height="20"> <a href="https://www.amazon.com/-/es/GeForce-i7-12650H-retroiluminado-NH-QLZAA-008-renovado/dp/B0CMJQZWMD" target="_blank">Notebook: </a> 
-
-<ul>
-  <li><strong>OS:</strong> Ubuntu 25.10</li>
-  <li><strong>IDE:</strong> Zed</li>
-  <li><strong>Modelo:</strong> ACER NITRO V AN515-58</li>
-  <li><strong>Monitor:</strong> X1 Xiaomi 27" & X3 15.6"</li>
-  <li><strong>CPU:</strong> Intel Core i7 12650H</li>
-  <li><strong>RAM:</strong> 32GB DDR5 4800MHz</li>
-  <li><strong>GPU:</strong> Nvidia RTX 4050M 6GB</li>
-  <li><strong>Almacenamiento:</strong> SSD Nvme 2.5TB</li>
-</ul>
-
 <!-- SEPARATOR -->
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -72,20 +57,24 @@ Setup:
 Estadisticas:
 
 <img src="assets/chart-dots.png" alt="🔭" width="20" height="20"> <a href="https://github.com/DevnisG" target="_blank">GitHub: </a> 
-            <p align="center">
-        <a href="https://github.com/DevnisG/">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
-          alt="DevnisG :: Overall Top Langs " /></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/DevnisG/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
-          alt="DevnisG :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
-          alt="DevnisG :: Top Langs by commit" />
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevnisG&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="DevnisG"/>
-          </a>
-        </p>
+
+<p align="center">
+  <a href="https://github.com/DevnisG/">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
+    alt="DevnisG :: Top Langs by Repo" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DevnisG/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevnisG&theme=tokyonight&layout=compact&hide_border=true"
+    alt="DevnisG :: Top Langs by Commit" />
+
+  <a href="https://github.com/DevnisG/">
+    <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DevnisG&theme=tokyonight&hide_border=true"
+    alt="DevnisG :: Stats" />
+  </a>
+</p>
 
 <!-- SEPARATOR -->
 <p  align="center">
@@ -99,24 +88,14 @@ Stack & Tecnologías:
   <img alt="DG | Git" width="25px" src="assets/brand-git.png" /> &nbsp;&nbsp;
   <img alt="DG | Github" width="25px" src="assets/brand-github.png" /> &nbsp;&nbsp;
   <img alt="DG | VSCode" width="25px" src="assets/brand-vscode.png" /> &nbsp;&nbsp;
-  <img alt="DG | FastAPI" width="25px" src="assets/fastapi.png" /> &nbsp;&nbsp;
   <img alt="DG | Terminal" width="25px" src="assets/terminal.png" /> &nbsp;&nbsp;
-  <img alt="DG | Slack" width="25px" src="assets/brand-slack.png" /> &nbsp;&nbsp;
   <img alt="DG | Android" width="25px" src="assets/brand-android.png" /> &nbsp;&nbsp;
   <img alt="DG | Apple" width="25px" src="assets/brand-apple.png" /> &nbsp;&nbsp;
-  <img alt="DG | Discord" width="25px" src="assets/brand-discord.png" /> &nbsp;&nbsp;
-  <img alt="DG | Flask" width="25px" src="assets/Flask.svg" /> &nbsp;&nbsp;
   <img alt="DG | Windows" width="25px" src="assets/brand-windows.png" /> &nbsp;&nbsp;
   <img alt="DG | Server" width="25px" src="assets/server.png" /> &nbsp;&nbsp;
   <img alt="DG | Hardware" width="25px" src="assets/cpu.png" /> &nbsp;&nbsp;
-  <img alt="DG | flet" width="25px" src="assets/flet.svg" /> &nbsp;&nbsp;
-  <img alt="DG | Flet" width="25px" src="assets/brand-flutter.png" /> &nbsp;&nbsp;
-  <img alt="DG | Django" width="25px" src="assets/brand-django.png" /> &nbsp;&nbsp;
-  <img alt="DG | Api" width="25px" src="assets/api.png" /> &nbsp;&nbsp;
   <img alt="DG | Arduino" width="25px" src="assets/bateria.png" /> &nbsp;&nbsp;
   <img alt="DG | Bat" width="25px" src="assets/batch.png" /> &nbsp;&nbsp;
-  <img alt="DG | Notion" width="25px" src="assets/brand-notion.png" /> &nbsp;&nbsp;
-  <img alt="DG | Office" width="25px" src="assets/brand-office.png" /> &nbsp;&nbsp;
   <img alt="DG | Python" width="25px" src="assets/brand-python.png" /> &nbsp;&nbsp;
   <img alt="DG | Powershell" width="25px" src="assets/brand-powershell.png" /> &nbsp;&nbsp;
   <img alt="DG | Go" width="25px" src="assets/brand-golang.png" /> &nbsp;&nbsp;
