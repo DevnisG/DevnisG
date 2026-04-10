@@ -9,7 +9,6 @@ jobs:
 build:
 runs-on: ubuntu-latest
 
-```
 steps:
   - name: Checkout repo
     uses: actions/checkout@v3
@@ -27,4 +26,3 @@ steps:
       git add .
       git commit -m "update stats" || exit 0
       git push
-```
