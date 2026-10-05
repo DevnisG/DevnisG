@@ -100,7 +100,6 @@ Stack & Tecnologías:
   <img alt="DG | Powershell" width="25px" src="assets/brand-powershell.png" /> &nbsp;&nbsp;
   <img alt="DG | Go" width="25px" src="assets/brand-golang.png" /> &nbsp;&nbsp;
   <img alt="DG | C++" width="25px" src="assets/brand-cpp.png" /> &nbsp;&nbsp;
-    
 </p>
 
 <!-- SEPARATOR -->
